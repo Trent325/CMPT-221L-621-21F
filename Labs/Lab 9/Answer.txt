@@ -1,0 +1,4 @@
+Trent Green
+Lab 9 
+
+	If I had to deploy my own website I would first make a new folder, and inside that folder I would put a pages folder, and a modules folder and a routes folder. The language I would use would be typescript and it would be a react app. I would then add the SCSS library in order to style my website. After initializing this project and completing the code and confirming it works properly, I would find a service to host my site, and a service to purchase the domain name of my site from. After posting my code to a host like AWS, I would redirect my domain name to the address of the host. After doing that and ensuring that my website works if a user visits it, I would then add an XML site map to my website and work on improving SEO in order to make sure it comes up towards the top of a user's internet search.
